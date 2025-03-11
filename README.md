@@ -8,10 +8,13 @@ This portfolio outlines the post-install configuration of the open-source help d
 
 <h2>Environments and Technologies Used</h2>
 
-- ✅ Microsoft Azure – Hosting the virtual machine (VM)
-- ✅ Windows 10 (21H2) – Operating system for the VM
-- ✅ Remote Desktop (RDP) – Used to access the VM remotely
-- ✅ Internet Information Services (IIS) – Web server hosting osTicket
+✅ Microsoft Azure – Hosting the virtual machine (VM)
+
+✅ Windows 10 (21H2) – Operating system for the VM
+
+✅ Remote Desktop (RDP) – Used to access the VM remotely
+
+✅ Internet Information Services (IIS) – Web server hosting osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -19,11 +22,15 @@ This portfolio outlines the post-install configuration of the open-source help d
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+✅ Step 1: Created agents to handle tickets
+
+✅ Step 2: Defined roles to manage agent permissions
+
+✅ Step 3: Added users/employees who will submit tickets
+
+✅ Step 4: Set up departments for proper ticket organization
+
+✅ Step 5: Tested ticket submission and assignment
 
 <h2>Configuration Steps</h2>
 
@@ -39,7 +46,7 @@ In the screenshot above, I demonstrate the process of creating agents and assign
 <img src="https://i.imgur.com/NXzZCSE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the screenshot above, I demonstrate the process of assigning roles and group permissions to agents, ensuring they have the appropriate access to manage and resolve tickets effectively.
 </p>
 <br />
 
@@ -47,6 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/okb67Ku.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the screenshot above, I showcase the process of creating users/employees who will submit tickets for agents to review and resolve.
 </p>
 <br />
